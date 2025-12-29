@@ -1,6 +1,6 @@
 # Land of Lafton - an Unlimited Adventures design
 
-Download the design from the src/LANDOFLA.DSN folder.
+Download this GitHub repo using [this link](https://github.com/RedDragonWebDesign/LandOfLafton/archive/refs/heads/master.zip). Then navigate to src/LANDOFLA.DSN and copy that into your Unlimited Adventures folder.
 
 ## Introduction - Son
 
@@ -32,7 +32,7 @@ Meonus ...
 * Go to the Library tab, and download Forgotten Realms: The Archives - Collection Two
 * When that's done, right click on Forgotten Realms: The Archives - Collection Two -> Manage -> Browse local files. This will open a folder where you need to copy some files to. On my computer, the path is C:\Program Files (x86)\Steam\steamapps\common\Forgotten Realms The Archives - Collection Two
 * Double click on "games", then on "Unlimited Adventures -ENG", then on DESIGNS, then on UA. The file path should now be something like C:\Program Files (x86)\Steam\steamapps\common\Forgotten Realms The Archives - Collection Two\games\Unlimited Adventures -ENG\DESIGNS\UA
-* Download the files in this GitHub repo to somewhere on your computer. For example, mine is at F:\other-peoples-githubs\LandOfLafton.
+* [Download the files in this GitHub repo](https://github.com/RedDragonWebDesign/LandOfLafton/archive/refs/heads/master.zip) to somewhere on your computer. For example, mine is at F:\other-peoples-githubs\LandOfLafton.
 * Copy the LANDOFLA.DSN folder from this repo to the \steamapps\ folder mentioned above. So for example, copy F:\other-peoples-githubs\LandOfLafton\src\LANDOFLA.DSN to C:\Program Files (x86)\Steam\steamapps\common\Forgotten Realms The Archives - Collection Two\games\Unlimited Adventures -ENG\DESIGNS\UA
 * Go back into Steam and click Play
 * In the left menu, click on Unlimited Adventures, then click Play
