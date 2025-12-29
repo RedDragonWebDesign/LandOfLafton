@@ -1,0 +1,47 @@
+Map for the "Land of Lafton"
+____________________________________________________
+|                                        1          |
+|                                                   |
+|          2                                    3   |
+|                                                   |
+|                                        4          |
+|                                                   |
+|5                 6         7      8               |
+|                                                   |
+|                                                   |
+|                      9                            |
+|                                             10    |
+|                11                                 |
+|                                                   |
+|                                                   |
+|12                                                 |
+|                                                   |
+|                                13                 | 
+|               14                                  | 
+|                                                   | 
+|                             15              16    |
+|                                                   | 
+|                                      17           | 
+|                                                   |
+|                         18                        |
+|___________________________________________________|
+
+1. Hobgoblin Pass
+2. Fror's Place
+3. Dion
+4. Giant Pass
+5. Colga
+6. Gobville
+7. Gorgobina
+8. Layover
+9. Goblin Mountains
+10. Danger Forest
+11. Tower Forest
+12. Portown
+13. LAFTON
+14. Abandoned Fortress
+15. Fraido
+16. Athens
+17. Krell's Gate
+18. Wildershin
+                                 

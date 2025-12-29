@@ -1,0 +1,139 @@
+---------------------------------------------------------------------
+
+MODULE NAME: 		   Game39, Pool of Radiance
+PLATFORM:                  PC
+AUTHOR(s):                 Ray Dyer
+E-MAIL ADDRESSES:          flopsyville@earthlink.net
+OTHER MODULES BY AUTHOR(s):	Game00, Introducion
+				Game01, A1-4, Aerie of the Slave Lords
+				Game02, B2, The Keep on the Borderlands
+				Game03, B3, Palace of the Silver Princess
+				Game04, B4, The Lost City
+				Game05, B6, The Veiled Society
+				Game06, B8, Journey to the Rock
+				Game07, B10, Assault on Raven's Ruin
+				Game08, B11-12, Harvest of Chaos			
+				Game09, C1, Hidden Shrine of Tomoachan				
+				Game10, C2, The Ghost Tower of Inverness
+				Game11, C3, The Lost Tower of Castanamir
+				Game12, C4-C5, The Prophecy of Brie Series
+				Game16, FRQ2, Hordes of Dragonspear
+				Game18, GA2, Swamplight
+				Game19, GA3, Tales of Enchantment
+ 				Game20, I2, Tomb of the Lizard King
+                                Game21, I6, Ravenloft
+				Game22, I7, Baltron's Beacon				
+				Game24, S2, White Plume Mountain
+				Game25, S4 + WG4, Tsojcanth and Tharizdun
+                                Game26, T1-4, The Temple of Elemental Evil
+				Game27, U1, The Sinister Secret of Saltmarsh
+				Game28, UK1, Beyond the Crystal Cave
+				Game29, X1, The Isle of Dread
+				Game30, X2, Castle Amber
+				Game31, X3, Curse of Xanathon
+				Game32, X7, The War Rafts of Kron
+				Game33, X8, Drums on Fire Mountain
+				Game34, B5, Horror on the Hill
+				Game35, REF5, Lords of Darkness, "Skeletons"
+				Game36, REF5, Lords of Darkness, "Lich"
+				Game37, Dungeon!: A Board Game
+				GameR1, Raethor's Prize
+				GameR2, Night in Daelwyn's Rest
+				GameR3, Early Winter, Fires of Spring
+				GameR4, Olde Adventures
+				GameR5, Eldritch Adventures
+				GameR6, Arcane Trials
+				GameR7, The Raven's Return
+				GameR8, Legendary Descent
+ADDITIONAL CREDITS:        The UA Community, TSR, SSI, WOTC
+
+DESCRIPTION: This is the thirty-third in a series of designs, a conversion of the classic game that started it all, Pool of Radiance.  I think a lot of us bought FRUA and immediately set about converting our favorite game to that system in hopes of playing Rangers and Paladins, and wielding the greatest spells of the game against The Boss.  Now, more than ten years later, it is finally done.  There have been a lot of false starts along the way (Ahem, "Eldritch Adventures"), but now it's done.  One of the greatest benefits of the online FRUA community is its comaraderie and plethora of talent.  Both provided the ability and reason to persevere into completing this conversion.  In a sense, it's the opus of the Realm.  It all comes to this adventure, even though there are a half dozen designs still remaining.  This is the conversion that intimidated me from the beginning, and now I can say that it's not only possible...It's FUN!  
+
+As always, Before you play this design, you should download and play Game 00, Introduction.  This provides instructions on getting a Realm party started.  This game is suggested for play for any group, and can be considered an optional starting point for beginning-level characters. Also, players are encouraged to mix and match adventures to play those that most interest them as individuals.  To learn more about The Realm, including a suggested order for playing all designs, go to this website:
+
+	http://www.geocities.com/chaderick.geo/
+
+---------------------------------------------------------------------
+*MOD INFO*
+
+Genre:                    P&P Conversions
+Number of Dungeons:       26
+Number of Overlands:      1
+Suggested Party Size:     6
+Suggested Party Level:    1-9
+Starting Equipment:       None
+Pre-Made Party:           No
+Average Playtime:         24 hours
+
+*ART INFO*
+
+New Icons:                YES
+New Pics:                 YES
+New BigPics:              YES
+New Maps:                 YES
+New Sprites:              YES
+
+*HACK INFO*
+
+New Character Icons:      YES
+New Backdrops:            YES
+New Wall Art:             YES
+New Dungeon Combat Art:   YES
+New Wilderness Combat Art:YES
+New Combat Sprites:       YES
+New Frame Art:            YES
+New Always Icons:         YES
+New Title Art:            YES
+New Font:                 YES
+New Items:                YES
+New CKIT Edits:           YES
+New Music:                YES
+New Sound Effects:        NO
+
+*CONSTRUCTION*
+
+Base Used:              This is a conversion of the classic adventure, Pool of Radiance.  The 
+			goal is a recration of that adventure to such a degree
+			that anyone with nostalgic memories regarding this adventure will be able 
+			to relive those childhood encounters through FRUA.
+		
+Build Time:     	Eleven Years.  
+Editor(s) Used:         Everything available to me at the time, as the story dictated.
+Known Bugs:             None of which I know.
+
+---------------------------------------------------------------------
+
+*COPYRIGHT/PERMISSIONS*
+
+Other UA authors MAY update this module in regard to fixing
+[SPELLING ERRORS/GRAMMAR/BUGS], Just make sure you're right!
+
+Other UA authors MAY update this module with NEW ARTWORK/
+NEW HACKS.
+
+Other UA authors MAY use this module as a base to design
+their own modules.
+
+Other UA authors MAY use the artwork and hacks in this
+module.
+
+I cannot imagine being restrictive about this stuff, after all so much
+of what I could do was because of the work of others.  Aside from the 
+characters and a slim margin of the scanned artwork, all I did was put
+together the efforts of others into a remake of a classic adventure!
+---------------------------------------------------------------------
+
+*OTHER MODULES RECOMMENDED BY AUTHOR*
+
+Dark Day for Liberty
+Feast of Goblyns			Ship of Horror
+Night of the Walking Dead		Touch of Death
+Bridge Over Troubled Waters		The Whole Armour		
+Curse of the Fire Dragon		Dungeon!
+Temple, Tower, Tomb			Dark Alliances				
+Night of the Basilisk			Hunted! A Ravenloft Adventure		
+Dead Gods				Strahd's Need				
+Scourge					The Guild				
+The Devil You Know			Zorlim Conspiracy			
+Domains: Demon's Legacy			Magic of the Savage Frontier
+---------------------------------------------------------------------
