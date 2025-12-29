@@ -7,6 +7,7 @@ Download this GitHub repo using [this link](https://github.com/RedDragonWebDesig
 When I was around 7 years old, my dad spent a month or two with the office door closed for an hour or two a day working on something mysterious. During Christmas that year, I found out what it was. He had spent many many hours programming in his Dungeons & Dragons content that he had played during the 80s into the hottest new D&D software at the time: Unlimited Adventures. And he gave it to me for Christmas. I spent many hours playing this design. This ended up becoming a formative and important part of my childhood. I have many fond memories of this.
 
 RedDragonWebDesign
+
 2025
 
 ## Introduction - Father
@@ -23,6 +24,7 @@ get more experience, then come back later when you are stronger.
 I hope you have fun.
 
 Meonus ...
+
 1995
 
 ## Installation instructions
@@ -92,10 +94,10 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 * Dungeon 22 - Porttown dungeon
 * Dungeon 23 - Random dungeon
 * Dungeon 24 - Random dungeon 2
-* Dungeon 25 - Random dungeon 3 (says Drow 3)
-* Dungeon 26 - Drow 3 (says Dolmen Moor)
-* Dungeon 27 - Dolmen Moor (says L's tomb)
-* Dungeon 28 - Llywelyn's Tomb (says Name off by 1)
+* Dungeon 25 - Random dungeon 3
+* Dungeon 26 - Drow 3
+* Dungeon 27 - Dolmen Moor
+* Dungeon 28 - Llywelyn's Tomb
 * Dungeon 29
 * Dungeon 30
 * Dungeon 31
@@ -105,6 +107,8 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 * Dungeon 35
 
 ## List of quests
+
+[TODO: add more]
 
 1. Lafton - fight thieves
 2. 
@@ -116,7 +120,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 8. 
 9. Lafton under attack
 10. 
-11.  - finishing this quest triggers Lafton under attack (Quest 9)
+11. finishing this quest triggers Lafton under attack (Quest 9)
 12. 
 13. 
 14. 
