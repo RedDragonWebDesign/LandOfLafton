@@ -91,7 +91,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 * Dungeon 20 - Colga Wharf
 * Dungeon 21 - Krell's Gate
 * Dungeon 22 - Porttown dungeon
-* Dungeon 23 - Random dungeon
+* Dungeon 23 - Random dungeon 1
 * Dungeon 24 - Random dungeon 2
 * Dungeon 25 - Random dungeon 3
 * Dungeon 26 - Drow 3

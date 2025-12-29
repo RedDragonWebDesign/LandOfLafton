@@ -89,7 +89,7 @@ Krell is a robber baron. You can pass through his outer keep for 5 PP. If you ac
 
 Is currently blank. It may have been lost in a hard drive failure. It is basically the dungeon from TSR 2001.
 
-## Dungeon 23 - Random dungeon
+## Dungeon 23 - Random dungeon 1
 
 A dungeon where you can grind and level up your characters. Accessed from Lafton. The entire dungeon spans 3 modules and each module contains 8 sections each, for a total of 24 sections. The first section is extremely easy, then next one is slightly harder, the next one is slightly harder, etc.
 
