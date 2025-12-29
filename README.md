@@ -42,7 +42,7 @@ Meonus ...
 
 ## Map of overland
 
-Includes cities and dungeon locations:
+Coordinates such as (5,4) are the menu town's location in Dungeon 03 Transfer. Codes starting with D such as D04 stand for "Dungeon" and correspond to the module number.
 
 [![Land of Lafton overland map](land_of_lafton_overland_map.png)](land_of_lafton_overland_map.png)
 
