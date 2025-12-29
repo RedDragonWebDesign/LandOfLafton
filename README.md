@@ -37,7 +37,7 @@ Meonus ...
 * Copy the LANDOFLA.DSN folder from this repo to the \steamapps\ folder mentioned above. So for example, copy F:\other-peoples-githubs\LandOfLafton\src\LANDOFLA.DSN to C:\Program Files (x86)\Steam\steamapps\common\Forgotten Realms The Archives - Collection Two\games\Unlimited Adventures -ENG\DESIGNS\UA
 * Go back into Steam and click Play
 * In the left menu, click on Unlimited Adventures, then click Play
-* When it asks the copy protection question, type a random letter then press enter. (Must type a letter.)
+* When it asks the copy protection question, type a random letter then press enter. (You can't leave it blank.)
 * Select a design -> Land of Lafton Update 4/20/97 -> Select
 
 ## Map of overland
