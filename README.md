@@ -203,6 +203,8 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ### ReddRagonWebDesign's characters
 
+[![ReddRagonWebDesign's characters](characters_reddragonwebdesign.png)](characters_reddragonwebdesign.png)
+
 * A - RedDragonWebDesign's characters, low level
 	* Manwell - level 5 fighter (melee)
 	* Twu - level 5 fighter (archer)
@@ -222,6 +224,8 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 	* Norman - level 10 magic user
 
 ### Meonus's characters
+
+[![Meonus's characters](characters_meonus.png)](characters_meonus.png)
 
 * F, G - Meonus's characters
 	* Olaf - level 11 fighter
