@@ -118,7 +118,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 5. Lafton - revenge party? Or Fror's Place?
 6. Bugbear Caves - 
 7. Bugbear Caves - on alert
-8. Edlman's Fortress - 
+8. Eldman's Fortress - 
 9. Lafton 3 - under attack. triggered by finishing quest 11
 10. Quest for the Golden Fleece - 
 11. Snake Worship - 
@@ -296,3 +296,11 @@ If you have PCs from other adventures and you want to import them into this desi
 ## Reminder about how dying works
 
 If you die, you need the level 5 cleric spell "raise dead", which you can pay for at certain temples, and typically costs around 1200 PP. Each time a character is raised, they lose a constitution point. Raise dead only works on non-elves. Raise dead doesn't work every time, there is a roll involved that is harder if constitution is low or the character has been dead a long time. Moral of the story: save often, and don't be afraid to go back to old saves. The level 7 cleric spell "resurrection" is the same thing except you start with full hit points instead of one hit point.
+
+## How to change the difficulty level
+
+Encamp -> Alt -> Level -> pick from Novice, Squire, Veteran, Adept, Champion
+
+According to the manual, Veteran is the most balanced. Adept and Champion make combat harder, but you get more XP. Novice and Squire make combat easier, but you get less XP.
+
+It's probably best to keep things on Veteran.
