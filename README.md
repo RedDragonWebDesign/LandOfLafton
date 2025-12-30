@@ -48,18 +48,20 @@ Coordinates such as (5,4) are the menu town's location in Dungeon 03 Transfer. C
 
 ## List of towns
 
-* Athens
-* Colga
-* Dion
-* Fraido
-* Fror's Place
-* Gobville
-* Gorgobina
-* Krell's Gate
-* Lafton Keep
-* Layover
-* Portown
-* Wildershin
+* Cities
+	* Athens - temple has level 5 spells (raise dead)
+	* Gobville - temple has level 7 spells (raise dead)
+	* Gorgobina - temple has level 5 spells (raise dead)
+	* Krell's Gate - temple has level 7 spells (raise dead). temple is in the inner keep
+	* Lafton Keep - temple has level 5 spells (raise dead)
+	* Wildershin - temple has level 5 spells (raise dead)
+* Towns
+	* Colga - temple has level 4 spells
+	* Dion - temple has level 4 spells
+	* Fraido - temple has level 1 spells
+	* Fror's Place - temple has level 3 spells
+	* Layover - temple has level 1 spells
+	* Portown - temple has level 3 spells
 
 ## List of dungeons
 
@@ -199,7 +201,52 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of saved games
 
-* [TODO: add]
+### ReddRagonWebDesign's characters
+
+* A - RedDragonWebDesign's characters, low level
+	* Manwell - level 5 fighter (melee)
+	* Twu - level 5 fighter (archer)
+	* Mavid - level 3 paladin
+	* Lot - level 3 magic user
+	* Isaac - level 4 cleric
+	* Thiek - level 6 thief
+	* Lemunda - NPC, level 6 fighter
+* B, C, D, E - RedDragonWebDesign's characters, high level. the highest level ones are in save B. must have been the last save I did.
+	* Silk - NPC, level 12/19 fighter/thief
+	* Manwell - level 11 fighter (melee)
+	* Lemunda - NPC, level 9 fighter
+	* Mavid - level 9 paladin
+	* Thiek - level 13 thief
+	* Magico - level 11 magic user
+	* Isaac - level 10 cleric
+	* Norman - level 10 magic user
+
+### Meonus's characters
+
+* F, G - Meonus's characters
+	* Olaf - level 11 fighter
+	* Lemunda - NPC, level 9 fighter
+	* Athlon - level 9 ranger
+	* Filgo - level 10 cleric
+	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
+	* Knute Rockny - level 7 cleric
+	* Jenelle - level 7 cleric
+* H, I - Meonus's characters. Knute Rockny is higher level than in F & G, so this must be where Meonus left off
+	* Lemunda - NPC, level 9 fighter
+	* Olaf - level 11 fighter
+	* Filgo - level 10 cleric
+	* Knute Rockny - level 9 cleric
+	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
+	* Voker - level 9 magic-user
+	* Athlon - level 9 ranger
+* J - Meonus's characters. Voker is lower level than in H, I
+	* Lemunda - NPC, level 9 fighter
+	* Ickster - level 9 fighter
+	* Olaf - level 11 fighter
+	* Filgo - level 10 cleric
+	* Voker - level 8 magic-user
+	* Knute Rockny - level 9 cleric
+	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
 
 ## Custom artwork
 
@@ -241,3 +288,7 @@ If you know how to fix any of these bugs, please feel free to make a ticket or a
 ## The Secret Shop
 
 If you have PCs from other adventures and you want to import them into this design at high level, one way to do it is to create the characters at low level, then visit the secret shop. The secret shop is visited via Gorgobina. After the menu town, it will ask you where to go. Select "Stay in Gorgobina". Then it will ask you "Do you look for the secret shop?" Click "yes" and give the password "Tower". This will take you to a special shop with 7 rooms where you can buy magical items for free and gain experience points for free to equip your characters. The secret shop is technically located in Dungeon 03 Goblin Caves. I do not recommend visiting the secret shop for anything except for equipping imported characters one time, as this is basically a powerful cheat that will make the game less fun.
+
+## Reminder about how dying works
+
+If you die, you need the level 5 cleric spell "raise dead", which you can pay for at certain temples, and typically costs around 1200 PP. Each time a character is raised, they lose a constitution point. Raise dead only works on non-elves. Raise dead doesn't work every time, there is a roll involved that is harder if constitution is low or the character has been dead a long time. Moral of the story: save often, and don't be afraid to go back to old saves. The level 7 cleric spell "resurrection" is the same thing except you start with full hit points instead of one hit point.
