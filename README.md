@@ -63,37 +63,39 @@ Coordinates such as (5,4) are the menu town's location in Dungeon 03 Transfer. C
 
 ## List of dungeons
 
+Should probably visit dungeons in the order they were created, since that should be roughly ascending order of difficulty. Except maybe Drow1/Drow2, which are really hard.
+
 For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 * Overland 01
 * Overland 02
 * Overland 03
 * Overland 04
-* Dungeon 01 - Lafton 1 - Outer keep
-* Dungeon 02 - Lafton 2 - Inner keep
+* Dungeon 01 - Lafton 1 - Outer Keep
+* Dungeon 02 - Lafton 2 - Inner Keep
 * Dungeon 03 - Transfer
 * Dungeon 04 - Goblin 1
 * Dungeon 05 - Hobgoblin Pass & Giant Pass
 * Dungeon 06 - Drow 1
 * Dungeon 07 - Drow 2
-* Dungeon 08 - Fror's Place dungeon
+* Dungeon 08 - Fror's Place (Lower Level)
 * Dungeon 09 - Wasteland / Dragon Mountain
 * Dungeon 10 - Bugbears
-* Dungeon 11 - Lizard Man Island
-* Dungeon 12 - Danger forest
-* Dungeon 13 - Eldman's fortress
-* Dungeon 14 - Lafton 3 - Under attack
+* Dungeon 11 - Lizard Man Island (Island W)
+* Dungeon 12 - Danger Forest
+* Dungeon 13 - Eldman's Fortress
+* Dungeon 14 - Lafton 3 - Under Attack
 * Dungeon 15 - Ships
 * Dungeon 16 - Quest for the Golden Fleece
-* Dungeon 17 - Snake worshippers
+* Dungeon 17 - Snake Worshippers
 * Dungeon 18 - Eldamar
 * Dungeon 19 - Manta Claus
 * Dungeon 20 - Colga Wharf
 * Dungeon 21 - Krell's Gate
-* Dungeon 22 - Porttown dungeon
-* Dungeon 23 - Random dungeon 1
-* Dungeon 24 - Random dungeon 2
-* Dungeon 25 - Random dungeon 3
+* Dungeon 22 - Porttown Dungeon
+* Dungeon 23 - Random Dungeon 1
+* Dungeon 24 - Random Dungeon 2
+* Dungeon 25 - Random Dungeon 3
 * Dungeon 26 - Drow 3
 * Dungeon 27 - Dolmen Moor
 * Dungeon 28 - Llywelyn's Tomb
@@ -107,32 +109,30 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of quests
 
-[TODO: add more]
-
-1. Lafton - fight thieves
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. Lafton under attack
-10. 
-11. finishing this quest triggers Lafton under attack (Quest 9)
-12. 
-13. 
-14. 
-15. 
-16. Krell's Gate
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
+1. Lafton 1 - fight thieves
+2. Goblin Caves - 
+3. Hobgoblin Pass / Giant Pass - 
+4. Drow 1 & Drow 2 - 
+5. Lafton - revenge party? Or Fror's Place?
+6. Bugbear Caves - 
+7. Bugbear Caves - on alert
+8. Edlman's Fortress - 
+9. Lafton 3 - under attack. triggered by finishing quest 11
+10. Quest for the Golden Fleece - 
+11. Snake Worship - 
+12. Eldamar - 
+13. Manta Claus - 
+14. Colga Wharf - once the attack begins, no inn and no resting
+15. Colga Wharf - 
+16. Krell's Gate - 
+17. Porttown Dungeon - 
+18. Random Dungeon 1 - top half. once you clear that half out, random encounters go away
+19. Random Dungeon 1 - bottom half. once you clear that half out, random encounters go away
+20. Random Dungeon 2 - top half. once you clear that half out, random encounters go away
+21. Random Dungeon 2 - bottom half. once you clear that half out, random encounters go away
+22. Random Dungeon 3 - top half. once you clear that half out, random encounters go away
+23. Random Dungeon 3 - bottom half. once you clear that half out, random encounters go away
+24. Drow 3 - 
 25. 
 26. 
 27. 
@@ -156,24 +156,24 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of keys
 
-1. Apartment key - Get this by joining the thieves guild in Lafton for 100PP. Grants you access to an apartment in Lafton where you can rest.
-2. Drow key
-3. Ring of ram
-4. Chime of open
-5. Copper key
-6. Bronze key
-7. Steel key
-8. Large drow key
+1. Apartment Key - Lafton 1 - Get this by joining the thieves guild in Lafton for 100PP. Grants you access to an apartment in Lafton where you can rest.
+2. Drow Key - Drow 1 - found in north closet of first room. opens a door in the middle of the dungeon, and at the end of the dungeon. mandatory to get to drow 2 from drow 1.
+3. Ring of Ram - Quest for the Golden Fleece
+4. Chime of Opening - Quest for the Golden Fleece
+5. Copper Key - Eldamar
+6. Bronze Key
+7. Steel Key
+8. Large Drow Key - Drow 3
 
 ## List of items
 
-1. Hobgoblin pass
-2. Helm of kings
-3. Amulet of drow
-4. Lizard man skull
+1. Hobgoblin Pass - Hobgoblin Pass
+2. Helm of Kings - Bugbear Caves
+3. Amulet of Drow - Drow 2
+4. Lizard Man Skull - Lizard Man Island
 5. Dust of Dalenil
-6. Llywelyn's body
-7. Metal rod - causes the iron golems guarding Llywelyn's Tomb to ignore you
+6. Llywelyn's Body - Llywelyn's Tomb
+7. Metal Rod - Llywelyn's Tomb - causes the iron golems guarding Llywelyn's Tomb to ignore you
 8. Item 8
 9. Item 9
 10. Item 10
@@ -236,6 +236,7 @@ If you know how to fix any of these bugs, please feel free to make a ticket or a
 * Dungeon 15 Ships was never finished.
 * Dungeon 20 Colga Wharf was never finished. It may have been lost in a hard drive failure.
 * Dungeon 22 Porttown Dungeon is blank. It may have been lost in a hard drive failure. It is basically the dungeon from TSR 2001.
+* We played TSR 9023 In Search Of The Unknown on tabletop D&D but it never got programmed into this. This is the dungeon called Quasqueton and it has an upper level and a lower level. I believe it was by the city of Dion. Definitely somewhere in the east.
 
 ## The Secret Shop
 
