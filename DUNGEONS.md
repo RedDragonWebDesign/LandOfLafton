@@ -11,7 +11,7 @@ You can adventure in here once you figure out the password. Has an NPC you can p
 
 ## Dungeon 03 - Transfer
 
-A dungeon to hold all the menu towns. There's like 10 or 15 of them.
+A dungeon to hold all the menu towns. There's like 10 of them.
 
 ## Dungeon 04 - Goblin 1
 

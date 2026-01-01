@@ -200,113 +200,9 @@ NPCs don't get any money when you press share. But you also can't trade anything
 * modest starting equipment per character
 * 50 platinum pieces per character
 
-## List of saved games
+## Saved games and characters
 
-### ReddRagonWebDesign's characters
-
-[![ReddRagonWebDesign's characters](characters_reddragonwebdesign.png)](characters_reddragonwebdesign.png)
-
-* A - RedDragonWebDesign's characters, low level
-	* Manwell - level 5 fighter (melee)
-	* Twu - level 5 fighter (archer)
-	* Mavid - level 3 paladin
-	* Lot - level 3 magic user
-	* Isaac - level 4 cleric
-	* Thiek - level 6 thief
-	* Lemunda - NPC, level 6 fighter
-* B, C, D, E - RedDragonWebDesign's characters, high level. the highest level ones are in save B. must have been the last save I did.
-	* Silk - NPC, level 12/19 fighter/thief
-	* Manwell - level 11 fighter (melee), Str Int Wis Dex Con Cha 18(68) 13 11 15 9 13, AC -11, Thac0 4, Dmg 1d8+7, Long Sword +4, Plate Mail +3, Lawful Good, Human, 64 HP
-	* Lemunda - NPC, level 9 fighter
-	* Mavid - level 9 paladin, 17 14 17 15 13 17, AC -8, Thac0 9, Dmg 1d8+3, Scimitar +2, Scale Mail +2, Lawful Good, Human, 60 HP
-	* Thiek - level 13 thief, 14 14 16 17 8 16, AC -5, Thac0 7, Dmg 1d6+5, Composite Short Bow +5, [TODO: armor], Neutral Good, Human, 46 HP
-	* Magico - level 11 magic user, 11 18 15 13 15 15, AC -6, Thac0 12, Dmg 1d6+4, Quarter Staff +4, Lawful Good, Human, 55 HP
-	* Isaac - level 10 cleric, 15 16 17 10 12 15, AC -1, Thac0 12, Dmg 2d4+2, Staff Sling +2, Banded Mail +4, Lawful Good, Human, 55 HP
-	* Norman - level 10 magic user, 18 18 16 12 16 16, AC -3, Thac0 16, Dmg 1d6+4, Quarter Staff +2, Lawful Good, Human, 45 HP
-
-### Meonus's characters
-
-[![Meonus's characters](characters_meonus.png)](characters_meonus.png)
-
-* F, G - Meonus's characters
-	* Olaf - level 11 fighter
-	* Lemunda - NPC, level 9 fighter
-	* Athlon - level 9 ranger
-	* Filgo - level 10 cleric
-	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
-	* Knute Rockny - level 7 cleric
-	* Jenelle - level 7 cleric
-* H, I - Meonus's characters. Knute Rockny is higher level than in F & G, so this must be where Meonus left off
-	* Lemunda - NPC, level 9 fighter
-	* Olaf - level 11 fighter
-	* Filgo - level 10 cleric
-	* Knute Rockny - level 9 cleric
-	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
-	* Voker - level 9 magic-user
-	* Athlon - level 9 ranger
-* J - Meonus's characters. Voker is lower level than in H, I
-	* Lemunda - NPC, level 9 fighter
-	* Ickster - level 9 fighter
-	* Olaf - level 11 fighter
-	* Filgo - level 10 cleric
-	* Voker - level 8 magic-user
-	* Knute Rockny - level 9 cleric
-	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
-
-### Save dates and locations
-
-* RedDragonWebDesign's saves
-	* A - 2015-10-15 - Lafton 1
-	* B - 1997-04-13 - Lafton 1
-	* C - 1997-04-11 - Drow 3
-	* D - 1997-04-11 - Drow 3
-	* E - 1997-04-11 - Drow 3
-* Meonus's saves
-	* F - 1997-04-19 - Dolmen Moor
-	* G - 1997-04-19 - Llywelyn's Tomb
-	* H - 1997-04-26 - Lafton 1
-	* I - 1998-12-11 - Random Dungeon 3
-	* J - 1997-04-26 - Random Dungeon 3
-
-## List of characters
-
-* Amros
-* Athlon
-* Cheryl Teak
-* Dion Gormet
-* Father Bob
-* Filgo
-* Fork
-* Frances
-* Garvin
-* Ickster
-* Isaac
-* Jandar Rendar
-* Jenelle
-* Jonlo
-* Leonus
-* Knute Rockny
-* Krono
-* Lemunda
-* Leonus
-* Lot
-* Macman
-* Magico
-* Magico
-* Manwell
-* Manwell
-* Mavid
-* Nomloth
-* Norman
-* Odim
-* Olaf
-* Seidon
-* Thiek
-* Threek
-* Timbo
-* Twu
-* Voker
-* Yor
+For more details about the saved games and characters that come with this design, see [SAVED_GAMES.md](SAVED_GAMES.md).
 
 ## Custom artwork
 
@@ -322,18 +218,13 @@ The password to edit the design is 3410
 
 Fun fact: Unlimited Adventures stores its design passwords in cleartext, towards the end of the file GAME001.DAT. I discovered this as a kid and broken into Land of Lafton even though my dad was trying to keep me out of the dungeon editor. Lol.
 
-## Bugs and corruption
+## Corruption
 
-This design may be slightly damaged. The following things have happened to it:
+This design may be slightly damaged. If you know how to fix any of these bugs, please feel free to make a ticket or a pull request! The following things have happened to it:
 
 * The dungeon editor has an "off by 1" error for dungeons 25 and above. The dungeon display name doesn't match the actual dungeon name.
-* Dungeon 22 is currently blank. Perhaps this used to be a dungeon and got messed up.
 
-I recall a hard drive failure deleting some un-backed-up designs I had created, and it also probably destroyed a couple dungeons in Land of Lafton. I think we had to revert to an old backup that was missing some dungeons.
-
-If you know how to fix any of these bugs, please feel free to make a ticket or a pull request!
-
-## Things to fix
+## Events to fix
 
 * I have a note that Hobgoblin Pass is buggy.
 * There's a nasty battle in Drow 1 that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
