@@ -1,5 +1,7 @@
 # Land of Lafton - an Unlimited Adventures design
 
+[![Screenshot of Land of Lafton entry point](lafton_entry_point.png)](lafton_entry_point.png)
+
 Download this GitHub repo using [this link](https://github.com/RedDragonWebDesign/LandOfLafton/archive/refs/heads/master.zip). Then navigate to src/LANDOFLA.DSN and copy that into your Unlimited Adventures folder.
 
 ## Introduction - Son
@@ -50,9 +52,9 @@ Coordinates such as (5,4) are the menu town's location in Dungeon 03 Transfer. C
 
 * Cities
 	* Athens - temple has level 5 spells (raise dead)
-	* Gobville - temple has level 7 spells (raise dead)
+	* Gobville - temple has level 7 spells (raise dead, restoration)
 	* Gorgobina - temple has level 5 spells (raise dead)
-	* Krell's Gate - temple has level 7 spells (raise dead). temple is in the inner keep
+	* Krell's Gate - temple has level 7 spells (raise dead, restoration). temple is in the inner keep
 	* Lafton Keep - temple has level 5 spells (raise dead)
 	* Wildershin - temple has level 5 spells (raise dead)
 * Towns
@@ -184,6 +186,9 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of NPCs
 
+NPCs don't get any money when you press share. But you also can't trade anything out of their inventory or sell from their inventory.
+
+* Lemunda - pick her up at Lafton 1 in the tavern. level 6 fighter
 * Apolla
 * Cheryl Teak - Lafton under attack - picked up in Gorgobina
 * Athlon - Lafton under attack - picked up in Gorgobina
@@ -194,10 +199,6 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 * 8000 XP per character (4th level)
 * modest starting equipment per character
 * 50 platinum pieces per character
-
-## Suggested early goals
-
-* Join the thieves guild for 100PP. This will get you a key to an apartment so you don't need to pay the innkeeper, and will get you the correct password to the inner keep.
 
 ## List of saved games
 
@@ -215,13 +216,13 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 	* Lemunda - NPC, level 6 fighter
 * B, C, D, E - RedDragonWebDesign's characters, high level. the highest level ones are in save B. must have been the last save I did.
 	* Silk - NPC, level 12/19 fighter/thief
-	* Manwell - level 11 fighter (melee)
+	* Manwell - level 11 fighter (melee), Str Int Wis Dex Con Cha 18(68) 13 11 15 9 13, AC -11, Thac0 4, Dmg 1d8+7, Long Sword +4, Plate Mail +3, Lawful Good, Human, 64 HP
 	* Lemunda - NPC, level 9 fighter
-	* Mavid - level 9 paladin
-	* Thiek - level 13 thief
-	* Magico - level 11 magic user
-	* Isaac - level 10 cleric
-	* Norman - level 10 magic user
+	* Mavid - level 9 paladin, 17 14 17 15 13 17, AC -8, Thac0 9, Dmg 1d8+3, Scimitar +2, Scale Mail +2, Lawful Good, Human, 60 HP
+	* Thiek - level 13 thief, 14 14 16 17 8 16, AC -5, Thac0 7, Dmg 1d6+5, Composite Short Bow +5, [TODO: armor], Neutral Good, Human, 46 HP
+	* Magico - level 11 magic user, 11 18 15 13 15 15, AC -6, Thac0 12, Dmg 1d6+4, Quarter Staff +4, Lawful Good, Human, 55 HP
+	* Isaac - level 10 cleric, 15 16 17 10 12 15, AC -1, Thac0 12, Dmg 2d4+2, Staff Sling +2, Banded Mail +4, Lawful Good, Human, 55 HP
+	* Norman - level 10 magic user, 18 18 16 12 16 16, AC -3, Thac0 16, Dmg 1d6+4, Quarter Staff +2, Lawful Good, Human, 45 HP
 
 ### Meonus's characters
 
@@ -251,6 +252,61 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 	* Voker - level 8 magic-user
 	* Knute Rockny - level 9 cleric
 	* Leonus - NPC? level 5/10/11 fighter/magic-user/thief
+
+### Save dates and locations
+
+* RedDragonWebDesign's saves
+	* A - 2015-10-15 - Lafton 1
+	* B - 1997-04-13 - Lafton 1
+	* C - 1997-04-11 - Drow 3
+	* D - 1997-04-11 - Drow 3
+	* E - 1997-04-11 - Drow 3
+* Meonus's saves
+	* F - 1997-04-19 - Dolmen Moor
+	* G - 1997-04-19 - Llywelyn's Tomb
+	* H - 1997-04-26 - Lafton 1
+	* I - 1998-12-11 - Random Dungeon 3
+	* J - 1997-04-26 - Random Dungeon 3
+
+## List of characters
+
+* Amros
+* Athlon
+* Cheryl Teak
+* Dion Gormet
+* Father Bob
+* Filgo
+* Fork
+* Frances
+* Garvin
+* Ickster
+* Isaac
+* Jandar Rendar
+* Jenelle
+* Jonlo
+* Leonus
+* Knute Rockny
+* Krono
+* Lemunda
+* Leonus
+* Lot
+* Macman
+* Magico
+* Magico
+* Manwell
+* Manwell
+* Mavid
+* Nomloth
+* Norman
+* Odim
+* Olaf
+* Seidon
+* Thiek
+* Threek
+* Timbo
+* Twu
+* Voker
+* Yor
 
 ## Custom artwork
 
@@ -293,14 +349,27 @@ If you know how to fix any of these bugs, please feel free to make a ticket or a
 
 If you have PCs from other adventures and you want to import them into this design at high level, one way to do it is to create the characters at low level, then visit the secret shop. The secret shop is visited via Gorgobina. After the menu town, it will ask you where to go. Select "Stay in Gorgobina". Then it will ask you "Do you look for the secret shop?" Click "yes" and give the password "Tower". This will take you to a special shop with 7 rooms where you can buy magical items for free and gain experience points for free to equip your characters. The secret shop is technically located in Dungeon 03 Goblin Caves. I do not recommend visiting the secret shop for anything except for equipping imported characters one time, as this is basically a powerful cheat that will make the game less fun.
 
-## Reminder about how dying works
+## Things to do on day 1
 
-If you die, you need the level 5 cleric spell "raise dead", which you can pay for at certain temples, and typically costs around 1200 PP. Each time a character is raised, they lose a constitution point. Raise dead only works on non-elves. Raise dead doesn't work every time, there is a roll involved that is harder if constitution is low or the character has been dead a long time. Moral of the story: save often, and don't be afraid to go back to old saves. The level 7 cleric spell "resurrection" is the same thing except you start with full hit points instead of one hit point.
+* go to the inn, memorize spells, and rest
+* change game speed to 0 (fastest)
+* change game difficulty to Veteran (in the middle, no XP penalties or bonuses, no modifications to monster difficulty)
+* your characters come equipped with melee weapons and armor. but you'll want to buy some other stuff:
+	* buy composite long bow and arrows for your fighter, paladin, ranger
+	* buy composite short bow for your thief
+	* buy a staff sling for your clerice
+	* bows and arrows for everyone but your magic users
+	* quarterstaffs and extra darts for your magic users
+* Join the Guild of Heroes for 100PP. This will get you a key to an apartment so you don't need to pay the innkeeper, and will get you the correct password to the inner keep.
+* Visit the tavern to pick up an NPC (Lemunda) and to get a quest to kill some thieves.
 
-## How to change the difficulty level
+## Tips
 
-Encamp -> Alt -> Level -> pick from Novice, Squire, Veteran, Adept, Champion
-
-According to the manual, Veteran is the most balanced. Adept and Champion make combat harder, but you get more XP. Novice and Squire make combat easier, but you get less XP.
-
-It's probably best to keep things on Veteran.
+* use "Q" to put any character on autopilot. best avoided with magic users since you want to micromanage what spells they cast. press "spacebar" during any character's turn to turn off all the quick modes you turned on.
+* any character that goes unconscious, stand next to them with another character and press "B" to bandage them. this will save you an expensive trip to the temple to "raise dead" (which also permanently subtracts a point of constitution).
+* have someone keep "detect magic" memorized all the time. then cast it on loot screens to see which items are magical. your first magical items in Lafton 1 will be in the first thieves' battle. if you have multiple combats in a row, the detect magic will last awhile.
+* Lafton has the cheapest training. About 500 PP.
+* Give magic bracers to your magic users. They don't improve your armor class, they just set your armor class. So your other characters that can wear armor will already have AC better than your bracers.
+* If your characters die, go back to a saved game. Otherwise you have to go find a temple with at least level 5 spells to do raise dead, which is expensive, and which permanently drains a constitution point.
+* If your characters get drained a level by undead, go back to a saved game. Otherwise you have to go find a temple with at least level 7 spells to do restoration, which is expensive.
+* Unconscious characters miss out on experience points. Cast "cure light wounds" on them before the battle ends to get them back up.
