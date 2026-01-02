@@ -161,13 +161,11 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 ## List of keys
 
 1. Apartment Key - Lafton 1 - Get this by joining the thieves guild in Lafton for 100PP. Grants you access to an apartment in Lafton where you can rest.
-2. Drow Key
-	- Drow 1 - found in north closet of first room. opens a door in the middle of the dungeon, and at the end of the dungeon. mandatory to get to drow 2 from drow 1.
-	- Lafton 2 - can also find this in Olaf's conference room in Lafton 2, but you have to kill Olaf to get it. it opens a treasure room downstairs.
+2. Drow Key - Drow 1 found in north closet of first room. opens a door in the middle of the dungeon, and at the end of the dungeon. mandatory to get to drow 2 from drow 1.
 3. Ring of Ram - Quest for the Golden Fleece
 4. Chime of Opening - Quest for the Golden Fleece
 5. Copper Key - Eldamar
-6. Bronze Key
+6. Bronze Key - Lafton 2 - find this in Olaf's conference room, but you have to kill Olaf to get it. it opens a treasure room downstairs.
 7. Steel Key
 8. Large Drow Key - Drow 3
 
@@ -232,8 +230,6 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 ## Events to fix
 
-* Lafton 2 - redo the treasure room not to use the Drow Key. use a different key. change the key-giving event too.
-* Lafton 2 - once the above two are fixed, can remove Quest 5 from the treasure room. the only way to get it will be to kill Olaf upstairs
 * Lafton 2 - remove fake door in the dungeon
 * I have a note that Hobgoblin Pass is buggy.
 * There's a nasty battle in Drow 1 that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
