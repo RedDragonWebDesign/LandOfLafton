@@ -189,13 +189,9 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 NPCs don't get any money when you press share. But you also can't trade anything out of their inventory or sell from their inventory.
 
 * Lemunda - Lafton 1. pick her up in the tavern. level 6 fighter
-* Cheryl Teak
-	* Lafton 2 - in a room upstairs. there's also a spot where she is removed downstairs, so avoid that spot if you want to keep her
-	* Lafton 3 - picked up in Gorgobina
-* Athlon
-	* Drow 1 - ranger. can rescue him. he's a prisoner in the first room. he gives you the Drow Key
-	* Lafton 3 - picked up in Gorgobina
-* Apolla
+* Cheryl Teak - Lafton 2 - in a room upstairs. there's also a spot where she is removed downstairs, so avoid that spot if you want to keep her
+- Doc - Goblin Caves - dwarf you can rescue from the ogre caves
+* Athlon - Drow 1 - ranger. can rescue him. he's a prisoner in the first room. he gives you the Drow Key
 * [TODO: more]
 
 ## Starting settings
@@ -228,10 +224,12 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 * The dungeon editor has an "off by 1" error for dungeons 25 and above. The dungeon display name doesn't match the actual dungeon name.
 
-## Events to fix
+## Events and walls to fix
 
-* I have a note that Hobgoblin Pass is buggy.
-* There's a nasty battle in Drow 1 that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
+* Lafton 1 - The front gate doesn't have a backside. Should add it.
+* Goblin caves - redo the witch's lair (which is what it's called in the menus) to be a witch's lair, not a minotaur lair. in addition, add magic mouths. in addition, look at my old D&D binder to see old map of it and other notes. in addition, change the random encounters in that zone to not be minotaurs.
+* Pass - I have a note that Hobgoblin Pass is buggy.
+* Drow 1 - There's a nasty battle that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
 
 ## Dungeons to add
 
@@ -254,7 +252,7 @@ If you have PCs from other adventures and you want to import them into this desi
 	* buy composite short bow for your thief
 	* buy a staff sling for your clerice
 	* bows and arrows for everyone but your magic users
-	* quarterstaffs and extra darts for your magic users
+	* quarterstaffs for your magic users (they can use darts as ranged weapons if you want. but is hardly worth your time. they miss a lot and only do 1d3)
 * Join the Guild of Heroes for 100PP. This will get you a key to an apartment so you don't need to pay the innkeeper, and will get you the correct password to the inner keep.
 * Visit the tavern to pick up an NPC (Lemunda) and to get a quest to kill some thieves.
 
@@ -270,4 +268,5 @@ If you have PCs from other adventures and you want to import them into this desi
 * Unconscious characters miss out on experience points. Cast "cure light wounds" on them before the battle ends to get them back up.
 * Spiders and some other creatures that poison you don't instantly kill you even though it looks like it. You can cast the 4th level cleric spell "neutralize poison" (or visit a temple and have them cast it), and the poisoned person will get right up and have 1 HP.
 * You should keep "search" on all the time, unless it is causing lots of random encounters. Search lets you find most secret doors and some events that are "search only".
-* Versus creatures with really nasty magical abilities, such as dragons and beholders, have them opportunity attack you to get them to waste their ability for that turn.
+* Versus creatures with really nasty magical abilities, such as dragons and beholders, have them opportunity attack you (move adjacent to them then away from them) to get them to waste their ability for that turn.
+* Your party order (changeable in Encamp -> Alt -> Order) determines who is in your front row and who is in your back row in battle. Counter-intuitively, the #4 spot is oftentimes the farthest forward, so don't put a non-fighter/paladin/ranger there.

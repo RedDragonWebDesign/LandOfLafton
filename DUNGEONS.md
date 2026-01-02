@@ -7,7 +7,7 @@ Civilization. Your base of operations. Has an inn, shops, training for clerics a
 
 ## Dungeon 02 - Lafton 2 - Inner Keep
 
-You can adventure in here once you figure out the password. Has an NPC you can pick up, some monsters you can fight in the basement, and training for fighters and mages. Inspired by TSR 9034 Keep on the Borderlands.
+You can adventure in here once you figure out the password. Has an NPC you can pick up, some monsters you can fight in the basement, some loot if you search people's bedrooms, and training for fighters and mages. You can even meet Olaf near the top of the keep tower. Inspired by TSR 9034 Keep on the Borderlands.
 
 ## Dungeon 03 - Transfer
 
@@ -15,7 +15,7 @@ A dungeon to hold all the menu towns. There's like 10 of them.
 
 ## Dungeon 04 - Goblin 1
 
-Accessed by leaving Lafton. Probably the first dungeon your party should visit. Has easy monsters such as goblins. Is divided into the main dungeon (goblin caves), ogre caves, and a witch's lair. Inspired by TSR 9034 Keep on the Borderlands.
+Accessed by leaving Lafton. Probably the first dungeon your party should visit. Has easy monsters such as goblins. Is divided into the main dungeon (goblin caves), and two smaller cave systems. Inspired by TSR 9034 Keep on the Borderlands.
 
 ## Dungeon 05 - Hobgoblin Pass & Giant Pass
 
