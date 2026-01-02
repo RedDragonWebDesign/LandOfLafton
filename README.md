@@ -232,7 +232,6 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 ## Events to fix
 
-* Lafton 2 - in the fight Olaf encounter, you're supposed to get Quest 5 after the combat. but you only get Quest 5 after one of the combats in the chain, not both.
 * Lafton 2 - redo the treasure room not to use the Drow Key. use a different key. change the key-giving event too.
 * Lafton 2 - once the above two are fixed, can remove Quest 5 from the treasure room. the only way to get it will be to kill Olaf upstairs
 * Lafton 2 - remove fake door in the dungeon
