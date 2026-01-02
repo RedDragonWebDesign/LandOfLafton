@@ -51,15 +51,15 @@ Coordinates such as (5,4) are the menu town's location in Dungeon 03 Transfer. C
 ## List of towns
 
 * Cities
-	* Athens - temple has level 5 spells (raise dead)
-	* Gobville - temple has level 7 spells (raise dead, restoration)
-	* Gorgobina - temple has level 5 spells (raise dead)
-	* Krell's Gate - temple has level 7 spells (raise dead, restoration). temple is in the inner keep
-	* Lafton Keep - temple has level 5 spells (raise dead)
-	* Wildershin - temple has level 5 spells (raise dead)
+	* Athens - temple has level 5 spells (neutralize poison, raise dead)
+	* Gobville - temple has level 7 spells (neutralize poison, raise dead, restoration)
+	* Gorgobina - temple has level 5 spells (neutralize poison, raise dead)
+	* Krell's Gate - temple has level 7 spells (neutralize poison, raise dead, restoration). temple is in the inner keep
+	* Lafton Keep - temple has level 5 spells (neutralize poison, raise dead)
+	* Wildershin - temple has level 5 spells (neutralize poison, raise dead)
 * Towns
-	* Colga - temple has level 4 spells
-	* Dion - temple has level 4 spells
+	* Colga - temple has level 4 spells (neutralize poison)
+	* Dion - temple has level 4 spells (neutralize poison)
 	* Fraido - temple has level 1 spells
 	* Fror's Place - temple has level 3 spells
 	* Layover - temple has level 1 spells
@@ -113,11 +113,11 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of quests
 
-1. Lafton 1 - fight thieves
+1. Lafton 1 - fight thieves. part 1 is before you have the thieves guild battle. part 2 is before you have the outside of town battle.
 2. Goblin Caves - 
 3. Hobgoblin Pass / Giant Pass - 
 4. Drow 1 & Drow 2 - 
-5. Lafton - revenge party? Or Fror's Place?
+5. Lafton 2 - you get this quest if you attack Olaf in the room on level 6 of the keep. 5 steps after doing so, you will be attacked by more guards one time.
 6. Bugbear Caves - 
 7. Bugbear Caves - on alert
 8. Eldman's Fortress - 
@@ -161,7 +161,9 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 ## List of keys
 
 1. Apartment Key - Lafton 1 - Get this by joining the thieves guild in Lafton for 100PP. Grants you access to an apartment in Lafton where you can rest.
-2. Drow Key - Drow 1 - found in north closet of first room. opens a door in the middle of the dungeon, and at the end of the dungeon. mandatory to get to drow 2 from drow 1.
+2. Drow Key
+	- Drow 1 - found in north closet of first room. opens a door in the middle of the dungeon, and at the end of the dungeon. mandatory to get to drow 2 from drow 1.
+	- Lafton 2 - can also find this in Olaf's conference room in Lafton 2, but you have to kill Olaf to get it. it opens a treasure room downstairs.
 3. Ring of Ram - Quest for the Golden Fleece
 4. Chime of Opening - Quest for the Golden Fleece
 5. Copper Key - Eldamar
@@ -188,10 +190,14 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 NPCs don't get any money when you press share. But you also can't trade anything out of their inventory or sell from their inventory.
 
-* Lemunda - pick her up at Lafton 1 in the tavern. level 6 fighter
+* Lemunda - Lafton 1. pick her up in the tavern. level 6 fighter
+* Cheryl Teak
+	* Lafton 2 - in a room upstairs. there's also a spot where she is removed downstairs, so avoid that spot if you want to keep her
+	* Lafton 3 - picked up in Gorgobina
+* Athlon
+	* Drow 1 - ranger. can rescue him. he's a prisoner in the first room. he gives you the Drow Key
+	* Lafton 3 - picked up in Gorgobina
 * Apolla
-* Cheryl Teak - Lafton under attack - picked up in Gorgobina
-* Athlon - Lafton under attack - picked up in Gorgobina
 * [TODO: more]
 
 ## Starting settings
@@ -226,6 +232,10 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 ## Events to fix
 
+* Lafton 2 - in the fight Olaf encounter, you're supposed to get Quest 5 after the combat. but you only get Quest 5 after one of the combats in the chain, not both.
+* Lafton 2 - redo the treasure room not to use the Drow Key. use a different key. change the key-giving event too.
+* Lafton 2 - once the above two are fixed, can remove Quest 5 from the treasure room. the only way to get it will be to kill Olaf upstairs
+* Lafton 2 - remove fake door in the dungeon
 * I have a note that Hobgoblin Pass is buggy.
 * There's a nasty battle in Drow 1 that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
 
@@ -264,3 +274,6 @@ If you have PCs from other adventures and you want to import them into this desi
 * If your characters die, go back to a saved game. Otherwise you have to go find a temple with at least level 5 spells to do raise dead, which is expensive, and which permanently drains a constitution point.
 * If your characters get drained a level by undead, go back to a saved game. Otherwise you have to go find a temple with at least level 7 spells to do restoration, which is expensive.
 * Unconscious characters miss out on experience points. Cast "cure light wounds" on them before the battle ends to get them back up.
+* Spiders and some other creatures that poison you don't instantly kill you even though it looks like it. You can cast the 4th level cleric spell "neutralize poison" (or visit a temple and have them cast it), and the poisoned person will get right up and have 1 HP.
+* You should keep "search" on all the time, unless it is causing lots of random encounters. Search lets you find most secret doors and some events that are "search only".
+* Versus creatures with really nasty magical abilities, such as dragons and beholders, have them opportunity attack you to get them to waste their ability for that turn.
