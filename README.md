@@ -230,7 +230,6 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 ## Events to fix
 
-* Lafton 2 - remove fake door in the dungeon
 * I have a note that Hobgoblin Pass is buggy.
 * There's a nasty battle in Drow 1 that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
 
