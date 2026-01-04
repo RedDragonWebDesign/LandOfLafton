@@ -188,10 +188,15 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 NPCs don't get any money when you press share. But you also can't trade anything out of their inventory or sell from their inventory.
 
-* Lemunda - Lafton 1. pick her up in the tavern. level 6 fighter
-* Cheryl Teak - Lafton 2 - in a room upstairs. there's also a spot where she is removed downstairs, so avoid that spot if you want to keep her
-- Doc - Goblin Caves - dwarf you can rescue from the ogre caves
-* Athlon - Drow 1 - ranger. can rescue him. he's a prisoner in the first room. he gives you the Drow Key
+* Lemunda level 6 fighter
+	* add - Lafton 1 tavern
+* Cheryl Teak
+	* add - Lafton 2 level 4
+	* remove Lafton 2 level 1, when entering the main door (facing west)
+* Doc - dwarf
+	* add - Goblin Caves, in the ogre cave section, locked in a cell
+* Athlon - ranger. can rescue him. he gives you the Drow Key
+	* add - Drow 1, there's a cell in the first big room
 * [TODO: more]
 
 ## Starting settings
@@ -259,14 +264,16 @@ If you have PCs from other adventures and you want to import them into this desi
 ## Tips
 
 * use "Q" to put any character on autopilot. best avoided with magic users since you want to micromanage what spells they cast. press "spacebar" during any character's turn to turn off all the quick modes you turned on.
-* any character that goes unconscious, stand next to them with another character and press "B" to bandage them. this will save you an expensive trip to the temple to "raise dead" (which also permanently subtracts a point of constitution).
+* if any character that goes unconscious, use another character (standing anywhere) and press "B" to bandage them. this will save you an expensive trip to the temple to "raise dead" (which also permanently subtracts a point of constitution and sometimes doesn't work).
 * have someone keep "detect magic" memorized all the time. then cast it on loot screens to see which items are magical. your first magical items in Lafton 1 will be in the first thieves' battle. if you have multiple combats in a row, the detect magic will last awhile.
-* Lafton has the cheapest training. About 500 PP.
+* Lafton has the cheapest training. About 500 PP. [TODO: double check]
 * Give magic bracers to your magic users. They don't improve your armor class, they just set your armor class. So your other characters that can wear armor will already have AC better than your bracers.
 * If your characters die, go back to a saved game. Otherwise you have to go find a temple with at least level 5 spells to do raise dead, which is expensive, and which permanently drains a constitution point.
 * If your characters get drained a level by undead, go back to a saved game. Otherwise you have to go find a temple with at least level 7 spells to do restoration, which is expensive.
 * Unconscious characters miss out on experience points. Cast "cure light wounds" on them before the battle ends to get them back up.
 * Spiders and some other creatures that poison you don't instantly kill you even though it looks like it. You can cast the 4th level cleric spell "neutralize poison" (or visit a temple and have them cast it), and the poisoned person will get right up and have 1 HP.
-* You should keep "search" on all the time, unless it is causing lots of random encounters. Search lets you find most secret doors and some events that are "search only".
+* You should keep "search" on all the time, unless it is causing lots of random encounters. Search lets you find most secret doors and some events and treasure that are "search only".
 * Versus creatures with really nasty magical abilities, such as dragons and beholders, have them opportunity attack you (move adjacent to them then away from them) to get them to waste their ability for that turn.
 * Your party order (changeable in Encamp -> Alt -> Order) determines who is in your front row and who is in your back row in battle. Counter-intuitively, the #4 spot is oftentimes the farthest forward, so don't put a non-fighter/paladin/ranger there.
+* Drow elves are pretty tough opponents. They are resistant to magic and carry magic equipment. Sadly, their magic equipment is not very useful though -- it disintegrates as soon as you go to a dungeon with sunlight. [TODO: double check]
+* Prioritize attacking high level mages, even if they're standing in the back. Fireballs and lightning bolts hurt a lot of people. Hold person or silence can be good to get them to stop casting spells. So can doing damage to them each turn (in AD&D, if you damage a spellcaster, they can't cast that turn).
