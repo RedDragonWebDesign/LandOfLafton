@@ -165,7 +165,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 3. Ring of Ram - Quest for the Golden Fleece
 4. Chime of Opening - Quest for the Golden Fleece
 5. Copper Key - Eldamar
-6. Bronze Key - Lafton 2 - find this in Olaf's conference room, but you have to kill Olaf to get it. it opens a treasure room downstairs.
+6. Olaf's Key - Lafton 2 - find this in Olaf's conference room, but you have to kill Olaf to get it. it opens a treasure room downstairs.
 7. Steel Key
 8. Large Drow Key - Drow 3
 
