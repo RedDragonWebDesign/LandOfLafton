@@ -217,12 +217,6 @@ None that I recall. I think it's all vanilla Unlimited Adventures artwork.
 
 Not much modification to monster stats. Looks like around 20 have been modified. If you go into the monster editor, I see a couple out of alphabetical order (a bug?), a couple with * next to them (modified?), and a couple with (#) next to them (NPCs that were renamed?)
 
-## Password
-
-The password to edit the design is 3410
-
-Fun fact: Unlimited Adventures stores its design passwords in cleartext, towards the end of the file GAME001.DAT. I discovered this as a kid and broken into Land of Lafton even though my dad was trying to keep me out of the dungeon editor. Lol.
-
 ## Corruption
 
 This design may be slightly damaged. If you know how to fix any of these bugs, please feel free to make a ticket or a pull request! The following things have happened to it:
@@ -258,6 +252,7 @@ If you have PCs from other adventures and you want to import them into this desi
 	* buy a staff sling for your clerice
 	* bows and arrows for everyone but your magic users
 	* quarterstaffs for your magic users (they can use darts as ranged weapons if you want. but is hardly worth your time. they miss a lot and only do 1d3)
+	* buy everyone a mirror. cheap and good for use vs medusas
 * Join the Guild of Heroes for 100PP. This will get you a key to an apartment so you don't need to pay the innkeeper, and will get you the correct password to the inner keep.
 * Visit the tavern to pick up an NPC (Lemunda) and to get a quest to kill some thieves.
 
@@ -277,3 +272,5 @@ If you have PCs from other adventures and you want to import them into this desi
 * Your party order (changeable in Encamp -> Alt -> Order) determines who is in your front row and who is in your back row in battle. Counter-intuitively, the #4 spot is oftentimes the farthest forward, so don't put a non-fighter/paladin/ranger there.
 * Drow elves are pretty tough opponents. They are resistant to magic and carry magic equipment. Sadly, their magic equipment is not very useful though -- it disintegrates as soon as you go to a dungeon with sunlight. [TODO: double check]
 * Prioritize attacking high level mages, even if they're standing in the back. Fireballs and lightning bolts hurt a lot of people. Hold person or silence can be good to get them to stop casting spells. So can doing damage to them each turn (in AD&D, if you damage a spellcaster, they can't cast that turn).
+* The third level magic user and cleric spell "dispel magic" is great for getting rid of the effects of enemy spellcasters. For example, it will break hold person, silence, etc.
+* Everyone should carry a mirror. Ready it in place of your shield when you encounter medusas.
