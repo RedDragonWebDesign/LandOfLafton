@@ -15,7 +15,7 @@ A dungeon to hold all the menu towns. There's like 10 of them.
 
 ## Dungeon 04 - Goblin 1
 
-Accessed by leaving Lafton. Probably the first dungeon your party should visit. Has easy monsters such as goblins. Is divided into the main dungeon (goblin caves), and two smaller cave systems. Inspired by TSR 9034 Keep on the Borderlands.
+Accessed by leaving Lafton. Probably the first dungeon your party should visit. Has easy monsters such as goblins. Is divided into the main dungeon (goblin caves), and two smaller cave systems. Inspired by TSR 9034 Keep on the Borderlands. Is a bit of a grind since your magic users don't have fireball until right before the chapel battle. I did lots of quick combat. This dungeon has frequent random encounters. The treasure rooms are safe to rest in. For the boss battle in the chapel, 1) go to town and level up and ID all your items before the battle, and 2) use your magic user scroll of hold person that you got in Lafton 2 to hold the giants.
 
 ## Dungeon 05 - Hobgoblin Pass & Giant Pass
 

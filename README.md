@@ -114,7 +114,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 ## List of quests
 
 1. Lafton 1 - fight thieves. part 1 is before you have the thieves guild battle. part 2 is before you have the outside of town battle.
-2. Goblin Caves - 
+2. Goblin Caves - silently received when you get to the first locked door. silently finished when you fight the battle in the chapel. when the quest is in progress, it turns on the second set of damage events and the statue battle. although this quest probably isn't necessary. could get rid of it (freeing up events too!) and replace the things it controls with "do once".
 3. Hobgoblin Pass / Giant Pass - 
 4. Drow 1 & Drow 2 - 
 5. Lafton 2 - you get this quest if you attack Olaf in the room on level 6 of the keep. 5 steps after doing so, you will be attacked by more guards one time.
@@ -193,6 +193,7 @@ NPCs don't get any money when you press share. But you also can't trade anything
 * Cheryl Teak
 	* add - Lafton 2 level 4
 	* remove Lafton 2 level 1, when entering the main door (facing west)
+	* add - Goblin Caves, cell
 * Doc - dwarf
 	* add - Goblin Caves, in the ogre cave section, locked in a cell
 * Athlon - ranger. can rescue him. he gives you the Drow Key
@@ -227,8 +228,10 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 * Lafton 1 - The front gate doesn't have a backside. Should add it.
 * Goblin caves - redo the witch's lair (which is what it's called in the menus) to be a witch's lair, not a minotaur lair. in addition, add magic mouths. in addition, look at my old D&D binder to see old map of it and other notes. in addition, change the random encounters in that zone to not be minotaurs.
+* Goblin caves - has too many random encounters. reduce their frequency by like 50%. this includes both the west half (non goblins) and the east half (goblins).
 * Pass - I have a note that Hobgoblin Pass is buggy.
 * Drow 1 - There's a nasty battle that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
+* Transfer - Gobville's and Gorbobina's shops has a bunch of expensive and weird magic items instead of regular items
 
 ## Dungeons to add
 
@@ -250,9 +253,11 @@ If you have PCs from other adventures and you want to import them into this desi
 	* buy composite long bow and arrows for your fighter, paladin, ranger
 	* buy composite short bow for your thief
 	* buy a staff sling for your clerice
-	* bows and arrows for everyone but your magic users
-	* quarterstaffs for your magic users (they can use darts as ranged weapons if you want. but is hardly worth your time. they miss a lot and only do 1d3)
+	* composite long bows and 200 arrows for your fighters, paladins, and rangers
+	* composite short bows and 200 arrows for your thieves
+	* quarterstaffs and darts for your magic users. the darts aren't really worth it when you're doing manual combat (they miss a lot and only do 1d3 damage), but are good for when you quick combat them
 	* buy everyone a mirror. cheap and good for use vs medusas
+	* buy plate mail for your fighters, paladins, rangers, and clerics. buy leather armor for your thief. can't buy any armor for magic users.
 * Join the Guild of Heroes for 100PP. This will get you a key to an apartment so you don't need to pay the innkeeper, and will get you the correct password to the inner keep.
 * Visit the tavern to pick up an NPC (Lemunda) and to get a quest to kill some thieves.
 
@@ -266,7 +271,7 @@ If you have PCs from other adventures and you want to import them into this desi
 * If your characters die, go back to a saved game. Otherwise you have to go find a temple with at least level 5 spells to do raise dead, which is expensive, and which permanently drains a constitution point.
 * If your characters get drained a level by undead, go back to a saved game. Otherwise you have to go find a temple with at least level 7 spells to do restoration, which is expensive.
 * Unconscious characters miss out on experience points. Cast "cure light wounds" on them before the battle ends to get them back up.
-* Spiders and some other creatures that poison you don't instantly kill you even though it looks like it. You can cast the 4th level cleric spell "neutralize poison" (or visit a temple and have them cast it), and the poisoned person will get right up and have 1 HP.
+* Spiders and some other creatures that poison you don't instantly kill you even though it looks like it. You can cast the 4th level cleric spell "neutralize poison" (or visit a temple and have them cast it for about 100 PP), and the poisoned person will get right up and have 1 HP.
 * You should keep "search" on all the time, unless it is causing lots of random encounters. Search lets you find most secret doors and some events and treasure that are "search only".
 * Versus creatures with really nasty magical abilities, such as dragons and beholders, have them opportunity attack you (move adjacent to them then away from them) to get them to waste their ability for that turn.
 * Your party order (changeable in Encamp -> Alt -> Order) determines who is in your front row and who is in your back row in battle. Counter-intuitively, the #4 spot is oftentimes the farthest forward, so don't put a non-fighter/paladin/ranger there.
@@ -274,3 +279,4 @@ If you have PCs from other adventures and you want to import them into this desi
 * Prioritize attacking high level mages, even if they're standing in the back. Fireballs and lightning bolts hurt a lot of people. Hold person or silence can be good to get them to stop casting spells. So can doing damage to them each turn (in AD&D, if you damage a spellcaster, they can't cast that turn).
 * The third level magic user and cleric spell "dispel magic" is great for getting rid of the effects of enemy spellcasters. For example, it will break hold person, silence, etc.
 * Everyone should carry a mirror. Ready it in place of your shield when you encounter medusas.
+* When you're fighting a tough combat, try using a mage scroll to cast hold monster (5th level magic user spell). This lets you try to hold up to 4 monsters. Usually you'll get 2-3 of them. They'll be frozen and susceptible to one shot kills. You can find mage scrolls in various places, for example in the mage's room on level 5 of the keep in Lafton 2.
