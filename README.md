@@ -228,7 +228,6 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 ## Events and walls to fix
 
-* Lafton 1 - The front gate doesn't have a backside. Should add it.
 * Goblin caves - redo the witch's lair (which is what it's called in the menus) to be a witch's lair, not a minotaur lair. in addition, add magic mouths. in addition, look at my old D&D binder to see old map of it and other notes. in addition, change the random encounters in that zone to not be minotaurs.
 * Goblin caves - has too many random encounters. reduce their frequency by like 50%. this includes both the west half (non goblins) and the east half (goblins).
 * Pass - I have a note that Hobgoblin Pass is buggy.
