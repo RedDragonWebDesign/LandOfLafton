@@ -188,14 +188,16 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 NPCs don't get any money when you press share. But you also can't trade anything out of their inventory or sell from their inventory.
 
-* Lemunda level 6 fighter
+* Lemunda - level 6 fighter
 	* add - Lafton 1 tavern
 * Cheryl Teak
 	* add - Lafton 2 level 4
 	* remove Lafton 2 level 1, when entering the main door (facing west)
 	* add - Goblin Caves, cell
-* Doc - dwarf
+* Doc - level 5 fighter, dwarf
 	* add - Goblin Caves, in the ogre cave section, locked in a cell
+* Apola
+	* add - Giant's Pass, in a cell on the hill giant side
 * Athlon - ranger. can rescue him. he gives you the Drow Key
 	* add - Drow 1, there's a cell in the first big room
 * [TODO: more]
@@ -280,3 +282,4 @@ If you have PCs from other adventures and you want to import them into this desi
 * The third level magic user and cleric spell "dispel magic" is great for getting rid of the effects of enemy spellcasters. For example, it will break hold person, silence, etc.
 * Everyone should carry a mirror. Ready it in place of your shield when you encounter medusas.
 * When you're fighting a tough combat, try using a mage scroll to cast hold monster (5th level magic user spell). This lets you try to hold up to 4 monsters. Usually you'll get 2-3 of them. They'll be frozen and susceptible to one shot kills. You can find mage scrolls in various places, for example in the mage's room on level 5 of the keep in Lafton 2.
+* Cast cleric buffs (prayer, bless) BEFORE battle. If you cast it during, it'll only affect a few people instead of the entire party.
