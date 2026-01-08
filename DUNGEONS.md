@@ -23,6 +23,8 @@ If you try to adventure between the west and the east via a northern route, you'
 
 In Giant Pass, you can rest on the trail and on the hill giant side, but not on the fire giant side. The fire giant side also has random encounters with salamanders (need +1 or better weapons to hit them) and with a fire elemental (need +2 or better weapons to hit them, and they do 3d8). Also, just walking will do fire damage every other step. There is treasure hidden in both giant strongholds.
 
+Hobgoblins are quite weak, with only 6 hit points each, both for regular hobgoblins and their leaders. They're like big goblins that you can't sweep, and the leaders like to fire their bows. It shouldn't take long to clean out their base.
+
 ## Dungeon 06 - Drow 1
 
 Drow elves are immune to magic so are very tough. This is a very difficult dungeon and you may want to come back to it later. It is very very long, using the "walk off the map to the east and appear back in the west" trick several times. Connects to Drow 2 at the end. Inspired by TSR 9021 Vault of the Drow.

@@ -115,7 +115,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 1. Lafton 1 - fight thieves. part 1 is before you have the thieves guild battle. part 2 is before you have the outside of town battle.
 2. Goblin Caves - silently received when you get to the first locked door. silently finished when you fight the battle in the chapel. when the quest is in progress, it turns on the second set of damage events and the statue battle. although this quest probably isn't necessary. could get rid of it (freeing up events too!) and replace the things it controls with "do once".
-3. Hobgoblin Pass / Giant Pass - 
+3. Giants Pass - You silently get this quest when you enter. One of the hill giant battles increments it. Sitting on the fire giant throne is controlled by the presence of this quest. Seems like another quest that could possibly be removed.
 4. Drow 1 & Drow 2 - 
 5. Lafton 2 - you get this quest if you attack Olaf in the room on level 6 of the keep. 5 steps after doing so, you will be attacked by more guards one time.
 6. Bugbear Caves - 
@@ -171,7 +171,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of items
 
-1. Hobgoblin Pass - Hobgoblin Pass
+1. Hobgoblin Pass - Hobgoblin Pass - temporarily awarded when the party pays the toll, then taken away when the party leaves the area
 2. Helm of Kings - Bugbear Caves
 3. Amulet of Drow - Drow 2
 4. Lizard Man Skull - Lizard Man Island
@@ -230,7 +230,6 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 * Goblin caves - redo the witch's lair (which is what it's called in the menus) to be a witch's lair, not a minotaur lair. in addition, add magic mouths. in addition, look at my old D&D binder to see old map of it and other notes. in addition, change the random encounters in that zone to not be minotaurs.
 * Goblin caves - has too many random encounters. reduce their frequency by like 50%. this includes both the west half (non goblins) and the east half (goblins).
-* Pass - I have a note that Hobgoblin Pass is buggy.
 * Drow 1 - There's a nasty battle that is duplicated once at each door. Should merge those together so that PCs don't trigger it twice by mistake.
 * Transfer - Gobville's and Gorbobina's shops has a bunch of expensive and weird magic items instead of regular items
 
@@ -243,12 +242,14 @@ This design may be slightly damaged. If you know how to fix any of these bugs, p
 
 ## The Secret Shop
 
-If you have PCs from other adventures and you want to import them into this design at high level, one way to do it is to create the characters at low level, then visit the secret shop. The secret shop is visited via Gorgobina. After the menu town, it will ask you where to go. Select "Stay in Gorgobina". Then it will ask you "Do you look for the secret shop?" Click "yes" and give the password "Tower". This will take you to a special shop with 7 rooms where you can buy magical items for free and gain experience points for free to equip your characters. The secret shop is technically located in Dungeon 03 Goblin Caves. I do not recommend visiting the secret shop for anything except for equipping imported characters one time, as this is basically a powerful cheat that will make the game less fun.
+If you have PCs from other adventures and you want to do a one-time eqipping of them with free magic items and experience points, then you can visit the Secret Shop. However, you should only visit this upon initial character creation. You should not come back here -- that'd be cheating!
+
+The secret shop is visited via Gorgobina. After the menu town, it will ask you where to go. Select "Stay in Gorgobina". Then it will ask you "Do you look for the secret shop?" Click "yes" and give the password "Tower".
 
 ## Things to do on day 1
 
 * go to the inn, memorize spells, and rest
-* change game speed to 0 (fastest)
+* change game speed to 2 (faster than normal, but not fastest, still slow enough that you can see certain messages that get hidden when the speed is 0)
 * change game difficulty to Veteran (in the middle, no XP penalties or bonuses, no modifications to monster difficulty)
 * your characters come equipped with melee weapons and armor. but you'll want to buy some other stuff:
 	* buy composite long bow and arrows for your fighter, paladin, ranger
