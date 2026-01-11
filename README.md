@@ -171,7 +171,7 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ## List of items
 
-1. Hobgoblin Pass - Hobgoblin Pass - temporarily awarded when the party pays the toll, then taken away when the party leaves the area
+1. Hobgoblin Pass - Hobgoblin Pass - temporarily awarded when the party pays the toll, then taken away when the party leaves the area. disables a big combat.
 2. Helm of Kings - Bugbear Caves
 3. Amulet of Drow - Drow 2
 4. Lizard Man Skull - Lizard Man Island
@@ -192,19 +192,40 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 
 ### List of NPCs
 
-* Lemunda - level 6 fighter
-	* add - Lafton 1 tavern
-* Cheryl Teak - [TODO: add NPC classes and levels to this doc]
-	* add - Lafton 2 level 4
-	* remove Lafton 2 level 1, when entering the main door (facing west)
-	* add - Goblin Caves, cell
+#### Levels 1-5
+
+* Torna - level 1 thief
+* Apola - level 3 cleric
+	* add - Giant's Pass, in a cell on the hill giant side
 * Doc - level 5 fighter, dwarf
 	* add - Goblin Caves, in the ogre cave section, locked in a cell
-* Apola
-	* add - Giant's Pass, in a cell on the hill giant side
-* Athlon - ranger. can rescue him. he gives you the Drow Key
-	* add - Drow 1, there's a cell in the first big room
-* [TODO: more]
+
+#### Levels 6-10
+
+* Alias - level 6 fighter
+* Cheryl Teak - level 6 ranger
+	* add - Lafton 2 level 4
+	* add - Goblin Caves, cell
+	* remove Lafton 2 level 1, when entering the main door (facing west)
+* Lemunda - level 6 fighter
+	* add - Lafton 1 tavern
+* Malic - level 6 fighter, dwarf
+* Dragonbait - level 7 paladin, lizard man
+* Fingon - level 7 fighter
+* Fror - level 7 fighter
+* Athlon - level 8 ranger
+	* add - Drow 1, there's a cell in the first big room. he gives you the Drow Key
+* Yemandra - level 8 paladin
+* Mason - level 9 fighter
+
+#### Levels 11-15
+
+* Nacacia - level 11 thief
+
+### Levels 16-20
+
+* Shal - level 18 fighter
+* Silk - level 19 fighter/thief
 
 ## Starting settings
 
