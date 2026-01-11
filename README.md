@@ -184,13 +184,17 @@ For more details, see [DUNGEONS.md](DUNGEONS.md)
 11. Item 11
 12. Item 12
 
-## List of NPCs
+## NPCs
 
-NPCs don't get any money when you press share. But you also can't trade anything out of their inventory or sell from their inventory.
+* You have 8 character slots, but only 6 can be filled with PCs. The last 2 must be filled by NPCs.
+* Downsides of NPCs: 1) if you put them into quick combat, sometimes you can't get them out of it. 2) you can't trade or sell any of their inventory, only drop it. 3) Sometimes events remove NPCs from the party unexpectedly, so all the experience and gear they've gained while with you are gone forever.
+* On the plus side, hitting the "share" button doesn't give them any money.
+
+### List of NPCs
 
 * Lemunda - level 6 fighter
 	* add - Lafton 1 tavern
-* Cheryl Teak
+* Cheryl Teak - [TODO: add NPC classes and levels to this doc]
 	* add - Lafton 2 level 4
 	* remove Lafton 2 level 1, when entering the main door (facing west)
 	* add - Goblin Caves, cell
@@ -278,8 +282,12 @@ The secret shop is visited via Gorgobina. After the menu town, it will ask you w
 * Versus creatures with really nasty magical abilities, such as dragons and beholders, have them opportunity attack you (move adjacent to them then away from them) to get them to waste their ability for that turn.
 * Your party order (changeable in Encamp -> Alt -> Order) determines who is in your front row and who is in your back row in battle. Counter-intuitively, the #4 spot is oftentimes the farthest forward, so don't put a non-fighter/paladin/ranger there.
 * Drow elves are pretty tough opponents. They are resistant to magic and carry magic equipment. Sadly, their magic equipment is not very useful though -- it disintegrates as soon as you go to a dungeon with sunlight. [TODO: double check]
-* Prioritize attacking high level mages, even if they're standing in the back. Fireballs and lightning bolts hurt a lot of people. Hold person or silence can be good to get them to stop casting spells. So can doing damage to them each turn (in AD&D, if you damage a spellcaster, they can't cast that turn).
+* Prioritize attacking spellcasters, especially high level ones. Their fireballs and lightning bolts hurt a lot of people. Their hold person on your entire front row of fighters can be really bad. You can cast hold person or silence to get them to stop casting spells. Or you can do damage to them each turn (in AD&D, if you damage a spellcaster, they can't cast that turn).
+* Some battles are decided by whether your mage or their mage wins initiative. Whoever can get the first fireball off gains a lot of momentum. For example now the entire other team can't cast that turn, and the casting team can keep firing off spells to keep the other team from casting.
 * The third level magic user and cleric spell "dispel magic" is great for getting rid of the effects of enemy spellcasters. For example, it will break hold person, silence, etc.
 * Everyone should carry a mirror. Ready it in place of your shield when you encounter medusas.
 * When you're fighting a tough combat, try using a mage scroll to cast hold monster (5th level magic user spell). This lets you try to hold up to 4 monsters. Usually you'll get 2-3 of them. They'll be frozen and susceptible to one shot kills. You can find mage scrolls in various places, for example in the mage's room on level 5 of the keep in Lafton 2.
 * Cast cleric buffs (prayer, bless) BEFORE battle. If you cast it during, it'll only affect a few people instead of the entire party.
+* The maximum number of items that can be in one slot is 255. So for example, when buying arrows, maybe buy 255 or less, so that you don't have two stacks that are unjoinable.
+* The spell stinking cloud can be really good since it can completely disable monsters that fail their saving throw, making them fell-able with "one cruel blow". For example I recently did this with 2 trolls. However the range on the spell is super short. Like 2 squares or something.
+* When removing PCs, it will ask if you want to update the character file. If you choose yes, it will be updated with the better stats and items. If you choose no, it will have you create an additional character file.

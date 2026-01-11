@@ -21,9 +21,9 @@ Accessed by leaving Lafton. Probably the first dungeon your party should visit. 
 
 If you try to adventure between the west and the east via a northern route, you'll need to pass through either Hobgoblin Pass or Giant Pass.
 
-In Giant Pass, you can rest on the trail and on the hill giant side, but not on the fire giant side. The fire giant side also has random encounters with salamanders (need +1 or better weapons to hit them) and with a fire elemental (need +2 or better weapons to hit them, and they do 3d8). Also, just walking will do fire damage every other step. There is treasure hidden in both giant strongholds.
+In Giant Pass, you can usually rest safely on the trail and on the hill giant side, but not on the fire giant side. The fire giant side also has random encounters with salamanders (need +1 or better weapons to hit them) and with a fire elemental (need +2 or better weapons to hit them, and they do 3d8). Also, just walking will do fire damage every other step. There is treasure hidden in both giant strongholds.
 
-Hobgoblins are quite weak, with only 6 hit points each, both for regular hobgoblins and their leaders. They're like big goblins that you can't sweep, and the leaders like to fire their bows. It shouldn't take long to clean out their base.
+Hobgoblins are quite weak, with only 6 hit points each, both for regular hobgoblins and their leaders. They're like big goblins that you can't sweep, and the leaders like to fire their bows. It shouldn't take long to clean out their base. It is usually safe to rest there.
 
 ## Dungeon 06 - Drow 1
 
